@@ -1,0 +1,2 @@
+# UnversityEducation_TheoryofProbabilityandMathematicalStatistics
+Code for course Theory of Probability and Mathematical Statistics
